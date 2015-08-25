@@ -1,7 +1,7 @@
 {
   "name": "treasure-box-folder",
   "main": "./lib/folder-treasure-boxes",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "A link to the past inspired treasure box folders",
   "license": "MIT",
   "repository": "https://github.com/Yahkob/folder-treasure-boxes.git",
